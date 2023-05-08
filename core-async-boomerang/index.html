@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Пример игрового поля</title>
+    <link rel="stylesheet" href="./styles/style.css" />
+  </head>
+  <body>
+    <h1>B O O M E R A N G</h1>
+    <div class="wrapper">
+      <div id="game-container">
+        <div class="player"></div>
+        <div class="weapon"></div>
+        <h4>SCORE: 0</h4>
+        <div class="hidden-wrapper">
+          <h3>select your hero</h3>
+          <div class="hero-select">
+            <button class="select-hero clown" id="clown">
+              <span>url("../character-img/clown.png")</span>
+            </button>
+            <button class="select-hero bandit" id="bandit">
+              <span>url("../character-img/bandit.png")</span>
+            </button>
+            <button class="select-hero dodik" id="dodik">
+              <span>url("../character-img/dodik.png")</span>
+            </button>
+            <button class="select-hero flash" id="flash">
+              <span>url("../character-img/flash.png")</span>
+            </button>
+            <button class="select-hero mamba" id="mamba">
+              <span>url("../character-img/mamba.png")</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="refactoring.js"></script>
+  </body>
+</html>
