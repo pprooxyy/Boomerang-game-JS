@@ -18,8 +18,6 @@ A simple game built using HTML, CSS, and JavaScript.
 
 ## Features
 
-Describe the features of your game here, for example:
-
 - The player can move the character left, right, up, and down
 - The player can throw a boomerang to defeat enemies
 - Enemies randomly spawn from the right side of the game area
@@ -27,8 +25,6 @@ Describe the features of your game here, for example:
 - The player scores a point for each enemy defeated with a boomerang
 
 ## Installation
-
-Describe the installation process for your game here. For example:
 
 1. Clone this repository.
 2. Open `index.html` in your web browser.
