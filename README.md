@@ -12,9 +12,9 @@ A simple game built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-![launch-screen](launch.png)
-![game-screen](game.png)
-![game-over-screen](game-over.png)
+![launch-screen](./launch.png)
+![game-screen](./game.png)
+![game-over-screen](./game-over.png)
 
 ## Features
 
