@@ -12,9 +12,9 @@ A simple game built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-[image-1](https://imgtr.ee/images/2023/05/08/lMkVl.png)
-[image-2](https://imgtr.ee/images/2023/05/08/lMUwV.png)
-[image-3](https://imgtr.ee/images/2023/05/08/lMn33.png)
+![launch-screen](launch.png)
+![game-screen](game.png)
+![game-over-screen](game-over.png)
 
 ## Features
 
